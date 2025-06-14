@@ -8,7 +8,7 @@ Este kit está pensado para que los pequeños desarrollen sus habilidades de con
 
 [Página oficial de Nairda programming](https://nairda.com.mx/#/about)
 
-![Nairda lenguaje de bloques]([https://ejemplo.com/logo.png](https://github.com/user-attachments/assets/36010b20-9203-45fc-9d48-2bf162e45eb4)){: width="20%"}
+![Nairda lenguaje de bloques]([https://ejemplo.com/logo.png](https://github.com/user-attachments/assets/36010b20-9203-45fc-9d48-2bf162e45eb4))
 
 ![RocketLauncher_Nairda_logo](https://github.com/user-attachments/assets/c5ce35f5-924f-4317-b4b7-cf3844f8651c){: width="60%"}
 
