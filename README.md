@@ -1,4 +1,4 @@
-#![box_robot](https://github.com/user-attachments/assets/19cead73-eca3-4f60-8209-6eb909850203)
+#![box_robot](https://github.com/user-attachments/assets/19cead73-eca3-4f60-8209-6eb909850203){: width="50%"}
 
 MiniBotDS2
 
