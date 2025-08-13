@@ -141,13 +141,53 @@ Dentro de la opción de descomprimir, tendrás que seleccionar donde quieres gua
 <br>
 <br>
 
-Al acceder a la carpeta, encontrarás los siguientes archivos:
+Al acceder a la carpeta, encontrarás las siguientes subcarpetas:
 
 ```
 basicFunctionality
 bluetoothInterface
 wifiInterface
 ```
+
+<br>
+<br>
+
+Dentro de ellas se encuentra un archivo de Arduino con su mismo nombre. Si ya tienes instalado Arduino, entonces, se mostrarán con su ícono y solamente bastará con dar doble click para abrir el sketch.
+
+El programa **basicFunctionality.ino** es el que viene programado en la Tuxedo 18650 de tu kit. Si quieres comprobar como funciona, deberás emplear el monitor Serial siguiendo los siguientes pasos:
+
+1. Conecta la placa Tuxedo18650 a la computadora, por medio del cable USB C incluido. Enciende el interruptor principal externo del robot que conectaste en uno de los pasos. Debe encenderse el LED verde ON. Este paso es muy importante, ya que si la tarjeta no se encuentra encendida, no fucnionará el programa.
+
+2. Iremos al menú **Herramientas/Placa/ESP32 Arduino** y seleccionaremos **ESP32 Dev Module** como placa.
+
+![Artboard 12](https://github.com/user-attachments/assets/53b1fae0-6968-4452-887a-c9ea696c2288)
+
+3. En el menú **Herramientas/Puerto** seleccionamos el puerto que haya aparecido. Usualmente es diferente de COM1.
+
+![portCOM](https://github.com/user-attachments/assets/8e99586a-9cc5-4caa-af16-0b27a452d319)
+
+4. Abrimos la consola Serial para ver lo que el control está haciendo. En la esquina superior derecha encontrarás el ícono (una lupa).
+
+![monitorSerial](https://github.com/user-attachments/assets/8ee90f7f-91f9-4460-9598-5bff69639f09)
+
+5. Asegúrate de que la velocidad Serial se encuentre a 115200 Baudios.
+
+![SerialBaudios](https://github.com/user-attachments/assets/131a6af1-53f7-4f57-8ee0-fbe5beb17c76)
+
+6. Ahora ya puedes explorar los mensajes que manda la Tuxedo 18650. Aquí tienes los comandos que puedes enviar para interactuar con tu robot:
+
+|comando (tecla) | Accion             |
+|----------------|--------------------|
+|w|Avanzar|
+|s|Retroceder|
+|a|Girar a la izquierda|
+|d|Girar a la derecha|
+|z|Detener motores|
+|q|Medir distancia|
+|1|Cabeza gira a la izquierda|
+|2|Cabeza centrada|
+|3|Cabeza gira a la derecha|
+
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/22f18627-fa08-405f-9d04-3672e83b1f30f" alt="Rocket Launcher" width="400"/>
