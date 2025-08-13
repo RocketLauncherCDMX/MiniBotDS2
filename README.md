@@ -98,3 +98,13 @@ Si ya seguiste las instrucciones del manual para ensamblar tu robot, y conectast
 <br>
 
 ---
+
+Posteriormente, deberás instalar el core del microcontrolador ESP32 para tener acceso a todos los recursos del hardware. Puedes seguir estas instrucciones:
+
+<br>
+
+[Cómo instalar el core para el microcontrolador ESP32]([https://github.com/RocketLauncherCDMX/ArduinoInstall](https://github.com/RocketLauncherCDMX/expressifCoreArduinoInstall))
+
+<br>
+
+---
