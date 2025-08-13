@@ -86,7 +86,7 @@ Toda la información necesaria para utilizar la **Tuxedo 18650** la encontrarás
 
 <br>
 
-https://github.com/RocketLauncherCDMX/Tuxedo18650
+[Información técnica de la tarjeta Tuxedo 18650](https://github.com/RocketLauncherCDMX/Tuxedo18650)
 
 <br>
 
