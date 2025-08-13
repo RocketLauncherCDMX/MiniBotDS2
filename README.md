@@ -16,10 +16,9 @@ Este kit está pensado para que los pequeños desarrollen sus habilidades de con
   <img src="https://github.com/user-attachments/assets/c5ce35f5-924f-4317-b4b7-cf3844f8651c" alt="Nairda logo" width="560"/>
 </p>
 
-
 Este kit incluye:
 
-- Tarjeta electrónica compatible con Arduino y Nairda software, la Tuxedo 18650.
+- Tarjeta electrónica Tuxedo 18650, compatible con Arduino y Nairda software.
 - Caja de baterias con 2 pilas recargables ¡no necesitaras comprar baterias nunca!
 - 2 motorreductores
 - 1 servo motor de 9 gramos.
@@ -30,3 +29,11 @@ Este kit incluye:
 - Tornillería.
 - Manual de ensamble.
 - Cables.
+
+<br>
+
+El empaque tiene un tamaño de 30x20x5cm, y un peso aproximado de 800g, y contiene todo lo necesario para su armado. Lo único de deberás tener a la mano son unas pinzas, un desarmador de cruz y pegamento blanco.
+
+Lo primero que encontrarás al abrir el empaque es el manual de ensamble, son 17 páginas que te guiarán por todo el camino para que armes tu robot correctamente. En este enlace podrás descargar el manual de uso: [Manual de usuario Tuxedo 18650 V1.0](https://github.com/RocketLauncherCDMX/Tuxedo18650/blob/0786c899abc0366a833ea90629ad312b154c0426/Tuxedo%2018650%20user%20manual%20V1.0.pdf)
+
+
