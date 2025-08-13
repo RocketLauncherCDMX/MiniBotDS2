@@ -116,6 +116,6 @@ En el siguiente link puedes descargar los programas de ejemplo para hacer las pr
 
 <br>
 
-[Cómo instalar el core para el microcontrolador ESP32](https://github.com/RocketLauncherCDMX/expressifCoreArduinoInstall)
+[Firmware de ejemplo para arduino](https://github.com/RocketLauncherCDMX/MiniBotDS2/archive/refs/tags/V1.0.zip)
 
 <br>
