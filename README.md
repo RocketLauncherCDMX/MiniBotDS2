@@ -86,7 +86,6 @@ https://github.com/RocketLauncherCDMX/Tuxedo18650
 <br>
 
 ---
----
 
 ## Programando tu MiniBot DS2 en Arduino
 
@@ -98,8 +97,6 @@ Si ya seguiste las instrucciones del manual para ensamblar tu robot, y conectast
 
 <br>
 
----
-
 Posteriormente, deberás instalar el core del microcontrolador ESP32 para tener acceso a todos los recursos del hardware. Puedes seguir estas instrucciones:
 
 <br>
@@ -109,3 +106,11 @@ Posteriormente, deberás instalar el core del microcontrolador ESP32 para tener 
 <br>
 
 ---
+
+En el siguiente link puedes descargar los programas de ejemplo para hacer las pruebas en el Minibot y puedas comenzar a entender como funciona cada una de sus partes 
+
+<br>
+
+[Cómo instalar el core para el microcontrolador ESP32](https://github.com/RocketLauncherCDMX/expressifCoreArduinoInstall)
+
+<br>
