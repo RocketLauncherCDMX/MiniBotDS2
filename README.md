@@ -170,11 +170,11 @@ El programa **basicFunctionality.ino** es el que viene programado en la Tuxedo 1
 
 ![monitorSerial](https://github.com/user-attachments/assets/8ee90f7f-91f9-4460-9598-5bff69639f09)
 
-5. Asegúrate de que la velocidad Serial se encuentre a 115200 Baudios.
+5. Asegúrate de que la velocidad Serial se encuentre a **115200 Baudios** y **Retorno de carro**.
 
-![SerialBaudios](https://github.com/user-attachments/assets/131a6af1-53f7-4f57-8ee0-fbe5beb17c76)
+<img width="979" height="658" alt="Monitor serial" src="https://github.com/user-attachments/assets/496ab20a-3d1d-4748-8fdb-00254b938ff1" />
 
-6. Ahora ya puedes explorar los mensajes que manda la Tuxedo 18650. Aquí tienes los comandos que puedes enviar para interactuar con tu robot:
+6. Ahora ya puedes controlar tu robot y explorar los mensajes que manda la Tuxedo 18650. Aquí tienes los comandos que puedes enviar para interactuar con tu robot:
 
 |comando (tecla) | Accion             |
 |----------------|--------------------|
@@ -188,6 +188,9 @@ El programa **basicFunctionality.ino** es el que viene programado en la Tuxedo 1
 |2|Cabeza centrada|
 |3|Cabeza gira a la derecha|
 
+<br><br>
+
+Te invitamos a explorar los otros 2 códigos, con los que aprenderas a controlar tu MiniBot DS2 de maneras únicas y divertidas :)
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/22f18627-fa08-405f-9d04-3672e83b1f30f" alt="Rocket Launcher" width="400"/>
