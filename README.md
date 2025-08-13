@@ -37,7 +37,7 @@ Este kit incluye:
 
 <br>
 
-## En el siguiente enlace encontrarás la **libreria oficial** en formato zip:
+## En el siguiente enlace encontrarás el **manual de ensamble** a todo color:
 
 <br>
 
@@ -50,5 +50,19 @@ https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotD
 <br>
 
 El empaque tiene un tamaño de 30x20x5cm, y un peso aproximado de 800g, y contiene todo lo necesario para su armado. Lo único de deberás tener a la mano son unas pinzas, un desarmador de cruz y pegamento blanco.
+
+Al abrir la caja encontrarás el manaul, y debajo de el, todas las partes mecánicas en un bloque de espuma de poliuretano que se encarga de protejer los motores, servo, baterías, sensor de distancia, orugas de caucho, interruptor de alimentación, cables, engranes, un par de piezas MDF y una caja con toda la tornillería. Quita todos los componentes y ponlos de manera ordenada en una mesa para que el montaje sea más dinámico. Notarás que las protecciones se encuentran adheridas a las hojas de MDF que contienen las piezas cortadas en láser, por medio de una pelicula plástica. Bastará con que retires con cuidado este filme para que las piezas queden libres. Ya no usaremos la espuma ni el film plástico.
+
+<p align="center">
+  <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/68fae42c54592296fa8c8d436ecb1395f727c641/box_content.png" alt="Contenido de la caja" width="460"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/68fae42c54592296fa8c8d436ecb1395f727c641/box_content_02.png" alt="Espuma con componentes" width="460"/>
+</p>
+
+
 
 
