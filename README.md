@@ -11,6 +11,8 @@ Este kit está pensado para que los pequeños desarrollen sus habilidades de con
 ---
 
 <br>
+<br>
+<br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/36010b20-9203-45fc-9d48-2bf162e45eb4" alt="Nairda" width="460"/>
