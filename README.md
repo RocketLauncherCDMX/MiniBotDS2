@@ -49,7 +49,7 @@ https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotD
 
 <br>
 
-El empaque tiene un tamaño de 30x20x5cm, y un peso aproximado de 800g, y contiene todo lo necesario para su armado. Lo único de deberás tener a la mano son unas pinzas, un desarmador de cruz y pegamento blanco.
+El empaque tiene un tamaño de 30x20x5cm, y contiene todo lo necesario para su armado. Lo único de deberás tener a la mano son unas pinzas, un desarmador de cruz y pegamento blanco.
 
 Al abrir la caja encontrarás el manaul, y debajo de el, todas las partes mecánicas en un bloque de espuma de poliuretano que se encarga de protejer los motores, servo, baterías, sensor de distancia, orugas de caucho, interruptor de alimentación, cables, engranes, un par de piezas MDF y una caja con toda la tornillería. Quita todos los componentes y ponlos de manera ordenada en una mesa para que el montaje sea más dinámico. Notarás que las protecciones se encuentran adheridas a las hojas de MDF que contienen las piezas cortadas en láser, por medio de una pelicula plástica. Bastará con que retires con cuidado este filme para que las piezas queden libres. Ya no usaremos la espuma ni el film plástico.
 
