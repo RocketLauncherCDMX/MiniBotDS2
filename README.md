@@ -81,7 +81,7 @@ Esta tarjeta está pensada para tener todo lo necesario para una infinidad de pr
 
 <br>
 
-https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf
+https://github.com/RocketLauncherCDMX/Tuxedo18650
 
 <br>
 
