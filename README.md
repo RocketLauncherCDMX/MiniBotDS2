@@ -103,7 +103,7 @@ Posteriormente, deberás instalar el core del microcontrolador ESP32 para tener 
 
 <br>
 
-[Cómo instalar el core para el microcontrolador ESP32]([https://github.com/RocketLauncherCDMX/ArduinoInstall](https://github.com/RocketLauncherCDMX/expressifCoreArduinoInstall))
+[Cómo instalar el core para el microcontrolador ESP32](https://github.com/RocketLauncherCDMX/expressifCoreArduinoInstall)
 
 <br>
 
