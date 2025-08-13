@@ -132,11 +132,13 @@ Este archivo llamado **Firmware_basicFunctionality.zip** es lo que se conoce com
 <img width="464" height="371" alt="Click derecho" src="https://github.com/user-attachments/assets/726e0f35-63e7-4222-baf6-38cbb8666f38" />
 
 <br>
+<br>
 
 Dentro de la opción de descomprimir, tendrás que seleccionar donde quieres guardar los archivos. Usualmente, por defecto, Windows selecciona la carpeta Descargas, pero tu puedes cambiarla. Das click en **Extraer** y aparecerá el mismo archivo, pero ahora si, como una carpeta.
 
 <img width="623" height="500" alt="Descomprimir archivo" src="https://github.com/user-attachments/assets/86207447-e5e5-4d93-bd13-f1eea8ccac31" />
 
+<br>
 <br>
 
 Al acceder a la carpeta, encontrarás los siguientes archivos:
