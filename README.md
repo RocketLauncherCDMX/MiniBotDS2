@@ -63,7 +63,13 @@ Al abrir la caja encontrarás el manaul, y debajo de el, todas las partes mecán
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/68fae42c54592296fa8c8d436ecb1395f727c641/box_content_02.png" alt="Espuma con componentes" width="780"/>
 </p>
 
+---
+
+## TUXEDO 18650
+
 El corazón de Minibot DS2 es la placa Tuxedo 18650, la cual tiene un microcontrolador de 32 bits ESP32, potencia de sobra para manejar las entradas y salidas, conectividad bluetooth y Wifi, control de los motores, LEDs, botones y buzzer.
+
+---
 
 <p align="center">
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/51f389f2e7053ad8fde13cf00cd0fa613a119678/Tuxedo18650_V1.0_noSwitch.png" alt="Tuxedo 18650 frente" width="480"/>
