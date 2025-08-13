@@ -126,3 +126,8 @@ En el siguiente link puedes descargar los programas de ejemplo para hacer las pr
 [Firmware de ejemplo para arduino](https://github.com/RocketLauncherCDMX/MiniBotDS2/archive/refs/tags/V1.0.zip)
 
 <br>
+
+
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/22f18627-fa08-405f-9d04-3672e83b1f30f" alt="Rocket Launcher" width="400"/>
+</p>
