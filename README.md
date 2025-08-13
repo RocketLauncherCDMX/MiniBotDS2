@@ -133,7 +133,7 @@ Este archivo llamado **Firmware_basicFunctionality.zip** es lo que se conoce com
 
 Dentro de la opción de descomprimir, tendrás que seleccionar donde quieres guardar los archivos. Usualmente, por defecto, Windows selecciona la carpeta Descargas, pero tu puedes cambiarla. Das click en **Extraer** y aparecerá el mismo archivo, pero ahora si, como una carpeta.
 
-<img width="623" height="500" alt="Descomprimir archivo" src="https://github.com/user-attachments/assets/a8d5b9dc-43b1-4471-8760-4e648e2d4772" />
+<img width="623" height="500" alt="Descomprimir archivo" src="https://github.com/user-attachments/assets/86207447-e5e5-4d93-bd13-f1eea8ccac31" />
 
 Al acceder a la carpeta, encontrarás los siguientes archivos:
 
@@ -142,12 +142,6 @@ basicFunctionality
 bluetoothInterface
 wifiInterface
 ```
-
-
-
-<img width="625" height="500" alt="Descomprimir archivo" src="https://github.com/user-attachments/assets/6323cc28-02d8-4744-9f68-d46198f38ed6" />
-
-
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/22f18627-fa08-405f-9d04-3672e83b1f30f" alt="Rocket Launcher" width="400"/>
