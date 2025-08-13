@@ -37,6 +37,14 @@ Este kit incluye:
 
 <br>
 
+Las medidas del kit totalmente ensamblado las puedes revisar en la siguiente imagen:
+
+
+
+<p align="center">
+  <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_medidas.png" alt="Medidas Minibot DS2" width="780"/>
+</p>
+
 ## En el siguiente enlace encontrarás el **manual de ensamble** a todo color:
 
 <br>
