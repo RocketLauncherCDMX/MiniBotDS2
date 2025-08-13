@@ -74,3 +74,15 @@ Esta tarjeta está pensada para tener todo lo necesario para una infinidad de pr
 <p align="center">
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/815c25c465b75ad5fa6b0acd36dab7c36775bc81/Tuxedo18650_V1_back.png" alt="Tuxedo 18650 atras" width="480"/>
 </p>
+
+<br>
+
+## Toda la información necesaria para utilizar la **Tuxedo 18650** la encontrarás en el siguiente link:
+
+<br>
+
+https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf
+
+<br>
+
+---
