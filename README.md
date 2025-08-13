@@ -65,7 +65,6 @@ Al abrir la caja encontrarás el manaul, y debajo de el, todas las partes mecán
 
 ---
 ## TUXEDO 18650
----
 
 El corazón de Minibot DS2 es la placa Tuxedo 18650, la cual tiene un microcontrolador de 32 bits ESP32, potencia de sobra para manejar las entradas y salidas, conectividad bluetooth y Wifi, control de los motores, LEDs, botones y buzzer.
 
