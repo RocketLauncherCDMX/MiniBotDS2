@@ -41,7 +41,7 @@ Este kit incluye:
 
 <br>
 
-https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf
+[Manual de ensamble MiniBot DS2](https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf)
 
 <br>
 
