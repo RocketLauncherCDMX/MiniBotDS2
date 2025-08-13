@@ -34,7 +34,7 @@ Este kit incluye:
 
 El empaque tiene un tamaño de 30x20x5cm, y un peso aproximado de 800g, y contiene todo lo necesario para su armado. Lo único de deberás tener a la mano son unas pinzas, un desarmador de cruz y pegamento blanco.
 
-Lo primero que encontrarás al abrir el empaque es el manual de ensamble, son 17 páginas que te guiarán por todo el camino para que armes tu robot correctamente. En este enlace podrás descargar el manual de ensamble: [Manual de ensamble MiniBot DS2](https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/48e7200a20511591bef2f28f2e66f91d23b61273/MiniBotDS2_manual_espanol_tuxedo18650_full_size.pdf)
+Lo primero que encontrarás al abrir el empaque es el manual de ensamble, son 17 páginas que te guiarán por todo el camino para que armes tu robot correctamente. En este enlace podrás descargar el manual de ensamble: [Manual de ensamble MiniBot DS2](https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_manual_completo.pdf)
 
 <p align="center">
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/1947ffdabc1886428d446cbee7fc68615e2e80b3/Manual%20de%20ensamble/MiniBotDS2_manual_01.png" alt="Manual de ensamble" width="560"/>
