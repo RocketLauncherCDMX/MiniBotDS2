@@ -9,11 +9,11 @@ Este kit está pensado para que los pequeños desarrollen sus habilidades de con
 [Página oficial de Nairda programming](https://nairda.com.mx/#/about)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/36010b20-9203-45fc-9d48-2bf162e45eb4" alt="Nairda" height="1080"/>
+  <img src="https://github.com/user-attachments/assets/36010b20-9203-45fc-9d48-2bf162e45eb4" alt="Nairda" height="460"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c5ce35f5-924f-4317-b4b7-cf3844f8651c" alt="Nairda logo" width="560"/>
+  <img src="https://github.com/user-attachments/assets/c5ce35f5-924f-4317-b4b7-cf3844f8651c" alt="Nairda logo" width="460"/>
 </p>
 
 Este kit incluye:
