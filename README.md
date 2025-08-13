@@ -123,7 +123,7 @@ En el siguiente link puedes descargar los programas de ejemplo para hacer las pr
 
 <br>
 
-[Firmware de ejemplo para arduino](https://github.com/RocketLauncherCDMX/MiniBotDS2/archive/refs/tags/V1.0.zip)
+[Firmware de ejemplo para arduino](https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/Firmware_basicFunctionality.zip)
 
 <br>
 
