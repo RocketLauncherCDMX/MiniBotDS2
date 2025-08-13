@@ -8,6 +8,10 @@ Este kit está pensado para que los pequeños desarrollen sus habilidades de con
 
 ---
 
+<a href="https://nairda.com.mx/#/about" style="display:inline-block;padding:10px 20px;background-color:#4CAF50;color:white;text-decoration:none;border-radius:5px;">
+  Página oficial de Nairda programming
+</a>
+
 [Página oficial de Nairda programming](https://nairda.com.mx/#/about)
 
 ---
