@@ -174,6 +174,8 @@ El programa **basicFunctionality.ino** es el que viene programado en la Tuxedo 1
 
 <img width="979" height="658" alt="Monitor serial" src="https://github.com/user-attachments/assets/496ab20a-3d1d-4748-8fdb-00254b938ff1" />
 
+<br>
+
 6. Ahora ya puedes controlar tu robot y explorar los mensajes que manda la Tuxedo 18650. Aquí tienes los comandos que puedes enviar para interactuar con tu robot:
 
 |comando (tecla) | Accion             |
