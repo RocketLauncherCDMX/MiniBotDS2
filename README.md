@@ -1,7 +1,7 @@
 ## Te presentamos a MiniBot DS2, un kit para armar un robot capaz de moverse con sus dos orugas por superficies planas o irregulares.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19cead73-eca3-4f60-8209-6eb909850203 alt="MiniBotDS2 box" width="720"/>
+  <img src="https://github.com/user-attachments/assets/19cead73-eca3-4f60-8209-6eb909850203" alt="MiniBotDS2 box" width="720"/>
 </p>
 
 
