@@ -77,7 +77,7 @@ Esta tarjeta está pensada para tener todo lo necesario para una infinidad de pr
 
 <br>
 
-## Toda la información necesaria para utilizar la **Tuxedo 18650** la encontrarás en el siguiente link:
+Toda la información necesaria para utilizar la **Tuxedo 18650** la encontrarás en el siguiente link:
 
 <br>
 
@@ -85,6 +85,7 @@ https://github.com/RocketLauncherCDMX/Tuxedo18650
 
 <br>
 
+---
 ---
 
 ## Programando tu MiniBot DS2 en Arduino
