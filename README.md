@@ -7,13 +7,7 @@
 Este kit está pensado para que los pequeños desarrollen sus habilidades de construcción, robótica y programación. Dentro de la caja encontraras todo lo necesario para ensamblarlo, y podrás programarlo por medio del lenguaje de programación más popular para robots: Arduino, además, si aún no sabes nada sobre programación, ¡No te preocupes!, ya que es totalmente compatible con Nairda programming, un lenguaje de programación visual basado únicamente en bloques, así que bastará con que instales el programa para cualquier plataforma: MacOS, Windows, Android y pruebes los ejemplos que se incluyen. En poco tiempo serás capaz de hacer tus propios programas.
 
 ---
-
-<a href="https://nairda.com.mx/#/about" style="display:inline-block;padding:10px 20px;background-color:#4CAF50;color:white;text-decoration:none;border-radius:5px;">
-  Página oficial de Nairda programming
-</a>
-
 [Página oficial de Nairda programming](https://nairda.com.mx/#/about)
-
 ---
 
 <p align="center">
