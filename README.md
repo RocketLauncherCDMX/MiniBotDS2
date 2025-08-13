@@ -86,3 +86,15 @@ https://github.com/RocketLauncherCDMX/Tuxedo18650
 <br>
 
 ---
+
+## Programando tu MiniBot DS2 en Arduino
+
+Si ya seguiste las instrucciones del manual para ensamblar tu robot, y conectaste todo como se indica, entonces es hora de programarlo. El MiniBot DS2 trae un programa muy sencillo de ejmplo, que funciona por medio de comandos Seriales enviados desde la computadora por medio de USB. Para poder probarlo es necesario tener el programa Arduino instalado en tu computadora. Puedes seguir los siguientes pasos para su instalación:
+
+<br>
+
+![Pasos para instalar Arduino en tu PC](https://github.com/RocketLauncherCDMX/ArduinoInstall)
+
+<br>
+
+---
