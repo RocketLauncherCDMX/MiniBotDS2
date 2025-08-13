@@ -70,11 +70,13 @@ El corazón de Minibot DS2 es la placa Tuxedo 18650, la cual tiene un microcontr
 
 <p align="center">
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/51f389f2e7053ad8fde13cf00cd0fa613a119678/Tuxedo18650_V1.0_noSwitch.png" alt="Tuxedo 18650 frente" width="480"/>
+  <br>
 </p>
 
 Esta tarjeta está pensada para tener todo lo necesario para una infinidad de prácticas con este robot, y se puede programar sin necesidad de una biblioteca dedicada, ya que la definición de todos los pines se encuentra en la parte trasera. En Arduino, bastará con declarar las entradas o salidas con el número de pin asociado para leer los botones, encender los LEDs, poner pines en alto o bajo y controlar los motores.
 
 <p align="center">
+  <br>
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/815c25c465b75ad5fa6b0acd36dab7c36775bc81/Tuxedo18650_V1_back.png" alt="Tuxedo 18650 atras" width="480"/>
 </p>
 
