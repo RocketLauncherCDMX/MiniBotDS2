@@ -1,7 +1,7 @@
 ### Te presentamos a MiniBot DS2, un kit para armar un robot con orugas, sensor de distancia, y totalmente programable.
 
 <p align="center">
-  <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/134e7b23405e8d896ac98528fd9b899120c47dd7/MiniBotDS2_ilustracion.png" alt="MiniBotDS2 ilustracion" width="560"/>
+  <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/blob/134e7b23405e8d896ac98528fd9b899120c47dd7/MiniBotDS2_ilustracion.png" alt="MiniBotDS2 ilustracion" width="780"/>
 </p>
 
 Este kit está pensado para que los pequeños desarrollen sus habilidades de construcción, robótica y programación. Dentro de la caja encontraras todo lo necesario para ensamblarlo, y podrás programarlo por medio del lenguaje de programación más popular para robots: Arduino, además, si aún no sabes nada sobre programación, ¡No te preocupes!, ya que es totalmente compatible con Nairda programming, un lenguaje de programación visual basado únicamente en bloques, así que bastará con que instales el programa para cualquier plataforma: MacOS, Windows, Android y pruebes los ejemplos que se incluyen. En poco tiempo serás capaz de hacer tus propios programas.
