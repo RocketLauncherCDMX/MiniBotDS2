@@ -8,7 +8,9 @@ Este kit está pensado para que los pequeños desarrollen sus habilidades de con
 
 ---
 [Página oficial de Nairda programming](https://nairda.com.mx/#/about)
+
 <br>
+
 ---
 
 <br>
