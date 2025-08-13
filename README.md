@@ -93,7 +93,7 @@ Si ya seguiste las instrucciones del manual para ensamblar tu robot, y conectast
 
 <br>
 
-![Pasos para instalar Arduino en tu PC](https://github.com/RocketLauncherCDMX/ArduinoInstall)
+[Pasos para instalar Arduino en tu PC](https://github.com/RocketLauncherCDMX/ArduinoInstall)
 
 <br>
 
