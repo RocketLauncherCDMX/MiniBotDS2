@@ -127,7 +127,7 @@ En el siguiente link puedes descargar los programas de ejemplo para hacer las pr
 
 <br>
 
-Este archivo llamado **Firmware_basicFunctionality.zip** es lo que se conoce como un archivo comprimido .zip el cual en realidad es una carpeta con más archivos dentro. Para poder tener acceso a su contenido, lo primero que hay que hacer es descomprimirlo. Vas a dar click derecho sobre el archivo y seleccionarás **Extraer todo...*. También puede estar dentro de la última opción **mostrar más opciones** 
+Este archivo llamado **Firmware_basicFunctionality.zip** es lo que se conoce como un archivo comprimido .zip el cual en realidad es una carpeta con más archivos dentro. Para poder tener acceso a su contenido, lo primero que hay que hacer es descomprimirlo. Vas a dar click derecho sobre el archivo y seleccionarás **Extraer todo...**. También puede estar dentro de la última opción **mostrar más opciones** 
 
 <img width="464" height="371" alt="Click derecho" src="https://github.com/user-attachments/assets/726e0f35-63e7-4222-baf6-38cbb8666f38" />
 
