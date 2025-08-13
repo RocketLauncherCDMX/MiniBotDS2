@@ -36,14 +36,13 @@ Este kit incluye:
 - Cables.
 
 <br>
-
-Las medidas del kit totalmente ensamblado las puedes revisar en la siguiente imagen:
-
-
+<br>
 
 <p align="center">
   <img src="https://github.com/RocketLauncherCDMX/MiniBotDS2/releases/download/V1.0/MiniBotDS2_medidas.png" alt="Medidas Minibot DS2" width="780"/>
 </p>
+
+<br>
 
 ## En el siguiente enlace encontrarás el **manual de ensamble** a todo color:
 
