@@ -127,6 +127,27 @@ En el siguiente link puedes descargar los programas de ejemplo para hacer las pr
 
 <br>
 
+Este archivo llamado **Firmware_basicFunctionality.zip** es lo que se conoce como un archivo comprimido .zip el cual en realidad es una carpeta con más archivos dentro. Para poder tener acceso a su contenido, lo primero que hay que hacer es descomprimirlo. Vas a dar click derecho sobre el archivo y seleccionarás **Extraer todo...*. También puede estar dentro de la última opción **mostrar más opciones** 
+
+<img width="464" height="371" alt="Click derecho" src="https://github.com/user-attachments/assets/726e0f35-63e7-4222-baf6-38cbb8666f38" />
+
+Dentro de la opción de descomprimir, tendrás que seleccionar donde quieres guardar los archivos. Usualmente, por defecto, Windows selecciona la carpeta Descargas, pero tu puedes cambiarla. Das click en **Extraer** y aparecerá el mismo archivo, pero ahora si, como una carpeta.
+
+<img width="625" height="500" alt="Descomprimir archivo" src="https://github.com/user-attachments/assets/0baf9e40-942b-404d-8227-3a2c8a2c84a1" />
+
+dentro de ella encontrarás los siguientes archivos:
+
+```
+basicFunctionality
+bluetoothInterface
+wifiInterface
+```
+
+
+
+<img width="625" height="500" alt="Descomprimir archivo" src="https://github.com/user-attachments/assets/6323cc28-02d8-4744-9f68-d46198f38ed6" />
+
+
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/22f18627-fa08-405f-9d04-3672e83b1f30f" alt="Rocket Launcher" width="400"/>
