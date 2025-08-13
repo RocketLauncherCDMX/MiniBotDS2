@@ -188,9 +188,11 @@ El programa **basicFunctionality.ino** es el que viene programado en la Tuxedo 1
 |2|Cabeza centrada|
 |3|Cabeza gira a la derecha|
 
-<br><br>
+<br>
 
 Te invitamos a explorar los otros 2 códigos, con los que aprenderas a controlar tu MiniBot DS2 de maneras únicas y divertidas :)
+
+<br>
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/22f18627-fa08-405f-9d04-3672e83b1f30f" alt="Rocket Launcher" width="400"/>
