@@ -1,3 +1,5 @@
+# EasyFinder DS2
+
 ### Te presentamos a MiniBot DS2, un kit para armar un robot con orugas, sensor de distancia, y totalmente programable.
 
 <p align="center">
